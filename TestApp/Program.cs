@@ -14,5 +14,10 @@ namespace TestApp
             SomeClass.SomeAction2();
             Console.ReadLine();
         }
+
+        static void LastAction()
+        {
+            Console.WriteLine("Last Action");
+        }
     }
 }
