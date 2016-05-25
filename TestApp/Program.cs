@@ -12,6 +12,7 @@ namespace TestApp
         {
             SomeClass.SomeAction1();
             SomeClass.SomeAction2();
+            LastAction();
             Console.ReadLine();
         }
 
