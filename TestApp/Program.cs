@@ -10,6 +10,9 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            SomeClass.SomeAction1();
+            SomeClass.SomeAction2();
+            Console.ReadLine();
         }
     }
 }
